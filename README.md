@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @javekk
+- 💞️ I like computer science. You can find some of my projects here, in these github repos. 
+- 🌱 I also like gardening and growing vegetables, here are some photos: https://photos.app.goo.gl/zDb3VuAVTMKdXbaJA. 
+- 🎮 I like video games, both playing and programming them. You can play a small video game I developed here: https://upcomingadventures.itch.io/five-minutes.
