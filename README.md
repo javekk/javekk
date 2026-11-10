@@ -1,4 +1,4 @@
-- ![Hi, I am Jave, a.k.a. Raffa](https://javeb.vercel.app/assets/text-box.svg)
+![Hi, I am Jave, a.k.a. Raffa](https://javeb.vercel.app/assets/text-box.svg)
 
 - 💞️ I like computer science.
   - You can find some of my projects here, in these GitHub repos.
